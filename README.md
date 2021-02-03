@@ -24,7 +24,7 @@
 <a href="https://kaggle.com/abishekvelavan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="abishekvelavan" height="30" width="40" /></a>
 <a href="https://fb.com/abishek.velavan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="abishek.velavan" height="30" width="40" /></a>
 <a href="https://instagram.com/abishek_velavan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="abishek_velavan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abishekvelavan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="abishekvelavan" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/abishekvelavan16" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="abishekvelavan16" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/abishekvelavan16" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="abishekvelavan16" height="30" width="40" /></a>
 </p>
 
