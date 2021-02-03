@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abishekvelavan" alt="abishekvelavan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/abishekvelavan" target="blank"><img src="https://img.shields.io/twitter/follow/abishekvelavan?logo=twitter&style=for-the-badge" alt="abishekvelavan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/abishekvelavand" target="blank"><img src="https://img.shields.io/twitter/follow/abishekvelavan?logo=twitter&style=for-the-badge" alt="abishekvelavand" /></a> </p>
 
 - 🌱 I’m currently learning **MEVN Stack Development**
 
@@ -18,14 +18,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/abishekvelavan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="abishekvelavan" height="30" width="40" /></a>
-<a href="https://twitter.com/abishekvelavan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abishekvelavan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abishek velavan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abishek velavan" height="30" width="40" /></a>
+<a href="https://twitter.com/abishekvelavand" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abishekvelavand" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abishek-velavan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abishek-velavan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/abishekvelavan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="abishekvelavan" height="30" width="40" /></a>
 <a href="https://kaggle.com/abishekvelavan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="abishekvelavan" height="30" width="40" /></a>
-<a href="https://fb.com/abishekvelavan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="abishekvelavan" height="30" width="40" /></a>
+<a href="https://fb.com/abishek.velavan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="abishek.velavan" height="30" width="40" /></a>
 <a href="https://instagram.com/abishek_velavan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="abishek_velavan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abishekvelavan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="abishekvelavan" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/abishekvelavan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="abishekvelavan" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/abishekvelavan16" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="abishekvelavan16" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
