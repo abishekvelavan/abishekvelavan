@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 70%" />
+  
 </div>  
   
 
@@ -86,15 +87,7 @@
 <a href="https://www.facebook.com/abishek.velavan" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.hackerrank.com/abishekvelavan16" target="_blank">
-<img src=https://img.shields.io/badge/< >-<Hackerrank>-<green> alt=Hackerrank style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.hackerearth.com/@abishekvelavan16" target="_blank">
-<img src=https://img.shields.io/badge/< >-<Hackerearth>-<green> alt=Hackerearth style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/abishekvelavand" target="_blank">
-<img src=https://img.shields.io/badge/< >-<Kaggle>-<white> alt=Kaggle style="margin-bottom: 5px;" />
-</a>
+
 
 </div>  
   
