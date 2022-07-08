@@ -10,10 +10,7 @@
 - 🔭 I’m currently working on becoming a Full Stack Developer  
   
 
-- 🌱 I’m currently learning Node JS & Mongo DB  
-  
-
-- ❓ Ask me about anything related to Front end development & Python  
+- ❓ Ask me about anything related to Front end development, React & Python  
   
 
 - ⚡ Fun fact: I speak a lot!😌  
@@ -40,6 +37,7 @@
 
 ### Web Dev Stack  
 <div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/reactjs-original-wordmark.svg" alt="React.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
