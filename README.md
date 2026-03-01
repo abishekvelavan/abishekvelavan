@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 Professional Summary
-Results-driven Senior AI Engineer with **4.5+ years of experience** specializing in integrating **Generative AI** into enterprise-grade applications. Expert in architecting **Multi-Agent Systems (Agentic AI)** and **RAG** workflows using Azure and AWS. Proven track record in optimizing model inference and managing the full production lifecycle of AI deployments.
+Results-driven Senior AI Engineer with **4.6+ years of experience** specializing in integrating **Generative AI** into enterprise-grade applications. Expert in architecting **Multi-Agent Systems (Agentic AI)**, Web+API and **RAG** workflows using Azure and AWS. Proven track record in optimizing model inference and managing the full production lifecycle of AI deployments.
 
 ---
 
@@ -33,7 +33,6 @@ Results-driven Senior AI Engineer with **4.5+ years of experience** specializing
 * 🏅 **Employee of the Month** – August 2023, CES IT
 * 🎓 **Best Tomorrow's Engineer 2020** – KPRIET
 * 💡 **Patent Published** – Social Primer (IN 202041021952)
-* 🏛️ **Aatmanirbhar Ideathon 2020** – Finalist
 * 🎙️ **TEDx License Holder** – 2021
 
 ---
@@ -44,7 +43,7 @@ Results-driven Senior AI Engineer with **4.5+ years of experience** specializing
 * **Pharmaceutical Onboarding:** Architected a multi-agent system (MagenticOne/AutoGen) to automate application verification, reducing manual effort to **10%**.
 * **Voice AI Accelerator:** Built a configurable Voice AI agent using **Deepgram** and **Plivo** that enables new use-case deployment via simple prompt changes.
 * **Industrial Logistics Bot:** Engineered an Azure CLU & OpenAI chatbot for 50+ US plants, optimizing truck waiting times by **60%** through IoT integrations.
-* **Deepfake POC:** Researched and leveraged ML models (Tacotron, WavGan, DeepFaceLab) to clone face and voice for real estate sales video generation.
+* **Naal AI:** Developed an AI assisted planning agent that pulls realtime data from multiple apps like Maps, Calendar, Tasks, Gmail to help plan and navigate your daily life.
 
 ---
 
