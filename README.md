@@ -1,96 +1,58 @@
-## 👋 Hi, I'm Abishek Velavan
+# 👋 Hi, I'm Abishek Velavan  
 
-I am a **Senior AI Engineer** with over **4.6 years of experience** specializing in the integration of **Generative AI** into enterprise-grade applications. I focus on building intuitive, AI-powered user experiences using cloud-native services and multi-agent systems.
+**Senior AI Engineer** specialized in building enterprise-grade **Generative AI** ecosystems and **Multi-Agent Systems**.  
 
----
-
-### 🚀 Quick Stats
-
-* **Current Role:** Senior Software Engineer at **CES IT Pvt Ltd**.
-
-
-* **Focus Areas:** Agentic AI, RAG Architectures, Voice AI, Fullstack Application Development and Cloud-Native AI Deployment.
-
-
-* **Location:** Chennai, India.
-
-
-* **Portfolio:** [abishekvelavan.github.io](https://www.google.com/search?q=https://abishekvelavan.github.io).
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abishekvelavan/)  [![Portfolio](https://img.shields.io/badge/Portfolio-252a34?style=for-the-badge&logo=react&logoColor=61DAFB)](https://abishekvelavan.github.io)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:velavanabishek@gmail.com)
 
 ---
 
-### 🛠️ Technical Toolkit
-
-| Category | Skills & Tools |
-| --- | --- |
-| **AI & LLM** | LangChain, LangGraph, AutoGen, Agentic AI, RAG, Prompt Engineering, MCP, Deepgram, OpenCV 
-
- |
-| **Cloud Platforms** | <br>**Azure:** CLU, Logic Apps, App Service, Functions, Service Bus <br>
-
-<br> **AWS:** S3, Lambda, Bedrock, OpenSearch, QuickSight 
-
- |
-| **Full Stack** | Python, JavaScript, TypeScript, React.js, Next.js, Node.js, FastAPI 
-
- |
-| **Databases** | FAISS, OpenSearch, MySQL, MongoDB, Cosmos DB, Azure Redis 
-
- |
-| **Observability** | LangSmith, MLFlow, Application Insights, CloudWatch 
-
- |
+### 🚀 Professional Summary
+[cite_start]A results-driven Senior AI Engineer with **4.5+ years of experience**[cite: 66]. [cite_start]I specialize in integrating **Generative AI** into enterprise applications using **cloud-native services (Azure/AWS)**[cite: 66, 67]. [cite_start]My focus is on architecting intuitive AI-powered user experiences, optimizing model inference, and managing the full production lifecycle of AI deployments[cite: 67, 68].
 
 ---
 
-### 🏆 Some Professional Highlights
+### 🛠️ Technical Stack
 
-* **LLM Verification System:** Architected a multi-agent system using **MagenticOne** and **OpenAI** that reduced pharmaceutical onboarding verification time to **10% of manual effort**.
-
-
-* **Visual Self-Healing:** Developed an LLM-orchestrated solution with **90% accuracy** to identify and fix visual discrepancies on AI-generated webpages.
-
-
-* **Voice AI Accelerator:** Built a configurable Voice AI agent using **Deepgram** and **Plivo** that deploys for new use-cases via a single prompt change.
-
-
-* **Industrial Automation:** Engineered an OpenAI-powered chatbot for 50+ US plants, optimizing truck waiting times by **60%** through IoT API integrations.
-
-
+| Category | Skills & Technologies |
+| :--- | :--- |
+| **Artificial Intelligence** | [cite_start]LangChain, LangGraph, AutoGen, Agentic AI, RAG, Prompt Engineering, MCP, Magentic One, Deepgram, OpenCV, NLP, SpaCy, OCR [cite: 73] |
+| **Cloud Platforms** | [cite_start]**Azure:** OpenAI, CLU, Logic Apps, App Service, Functions, Service Bus, Azure DevOps [cite: 74] [cite_start]<br> **AWS:** Bedrock, S3, Lambda, API Gateway, OpenSearch, QuickSight [cite: 74] |
+| **Languages** | [cite_start]Python, JavaScript, TypeScript [cite: 72] |
+| **Frontend** | [cite_start]React.js, Next.js, Redux, HTML5, CSS3, Bootstrap, Streamlit [cite: 75] |
+| **Backend** | [cite_start]Node.js, Express.js, FastAPI, Pydantic, Sequelize, Liquibase [cite: 76] |
+| **Databases** | [cite_start]**Vector:** FAISS, OpenSearch <br> **Relational/NoSQL:** MySQL, MongoDB, Cosmos DB, Azure Redis Cache [cite: 77] |
+| **Observability/Tools** | [cite_start]LangSmith, MLFlow, Application Insights, CloudWatch, Git [cite: 78] |
 
 ---
 
-### 🏅 Honors & Recognition
+### 🏆 Key Achievements & Awards
 
-* ✨ **Trailblazer 2025** – CES IT Annual Award 
-
-
-* ⚔️ **System Samurai 2024** – Tech Leadership Summit Award 
-
-
-* 🤝 **Brand Ambassador 2024** – CES IT Annual Award 
-
-
-* ⭐ **Rising Star 2023** – CES IT Annual Award 
-
-
-* 🏆 **Best Tomorrow's Engineer 2020** – KPRIET 
-
-
-* 💡 **Patent Published** – Social Primer (IN 202041021952) 
-
-
+* [cite_start]⭐ **Trailblazer 2025** – CES IT Annual Award [cite: 108]
+* [cite_start]⚔️ **System Samurai 2024** – CES IT Tech Leadership Summit Award [cite: 107]
+* [cite_start]🤝 **Brand Ambassador 2024** – CES IT Annual Award [cite: 106]
+* [cite_start]🚀 **Rising Star 2023** – CES IT Annual Award [cite: 105]
+* [cite_start]🏅 **Employee of the Month** – August 2023, CES IT [cite: 104]
+* [cite_start]🎓 **Best Tomorrow's Engineer 2020** – KPRIET [cite: 102]
+* [cite_start]💡 **Patent Published** – Social Primer (IN 202041021952) [cite: 110, 112]
+* [cite_start]🏛️ **Aatmanirbhar Ideathon 2020** – Finalist [cite: 103]
 
 ---
 
-### 📬 Connect With Me
+### 🧪 Featured AI Projects
 
-* **LinkedIn:** [linkedin.com/in/abishekvelavan/](https://linkedin.com/in/abishekvelavan/) 
+* [cite_start]**Self-Healing Webpages:** Developed an LLM-orchestrated solution using SLMs and Playwright to detect and fix visual discrepancies on AI-generated pages with **90% accuracy**[cite: 83].
+* [cite_start]**Pharmaceutical Onboarding:** Architected a multi-agent system (MagenticOne/AutoGen) to automate application verification, reducing manual effort to **10%**[cite: 84].
+* [cite_start]**Voice AI Accelerator:** Built a configurable Voice AI agent using Deepgram and Plivo that enables new use-case deployment via simple prompt changes[cite: 85].
+* [cite_start]**Industrial Logistics Bot:** Engineered an Azure CLU & OpenAI chatbot for 50+ US plants, optimizing truck waiting times by **60%** through IoT integrations[cite: 89, 90].
 
+---
 
-* **Email:** [velavanabishek@gmail.com](mailto:velavanabishek@gmail.com) 
+### 📜 Certifications
+* [cite_start]**AWS:** Bedrock, Gen AI Solution Design, Planning a Gen AI Org, Prompt Engineering, RAG with OpenSearch [cite: 116]
+* [cite_start]**AI/ML:** Deep Agents (LangChain Academy), LangSmith, Deep Learning (Guvi), ML 101 [cite: 116]
+* [cite_start]**Development:** React JS (Udemy), MERN Fullstack, Python & JS (HackerRank) [cite: 116]
 
+---
 
-* **GitHub:** [github.com/abishekvelavan](https://github.com/abishekvelavan)
+### 🎓 Education
+* **Bachelor of Engineering in Computer Science** | KPRIET, Coimbatore | [cite_start]**CGPA: 8.44** [cite: 113, 115]
