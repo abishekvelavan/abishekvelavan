@@ -4,16 +4,16 @@
 </div>  
   
 
-### <div align="center">I'm Abishek Velavan, An Enigmatic Coder!</div>  
+### <div align="center">I'm Abishek Velavan, An Enigmatic Coder & Empowring Leader!</div>  
   
 
-- 🔭 I’m currently working as a Generative AI & Full Stack Web Engineer 
+- 🔭 I’m currently working as a Senior Engineer specializing in Generative AI & Full Stack Web Engineer 
   
 
-- ❓ Ask me about anything related to Front end development, Genertaive AI, React, Node JS, Azure, AWS & Python  
+- ❓ Ask me about anything related to Genertaive AI, Azure, AWS & Fullstack Application Development
   
 
-- ⚡ Fun fact: I speak a lot!😌  
+- ⚡ Fun fact: I love to mentor and I speak a lot!😌  
   
 
 <br/>  
