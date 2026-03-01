@@ -1,25 +1,21 @@
 ## 👋 Hi, I'm Abishek Velavan
 
-I am a **Senior AI Engineer** with over **4.5 years of experience** specializing in the integration of **Generative AI** into enterprise-grade applications. I focus on building intuitive, AI-powered user experiences using cloud-native services and multi-agent systems.
+I am a **Senior AI Engineer** with over **4.6 years of experience** specializing in the integration of **Generative AI** into enterprise-grade applications. I focus on building intuitive, AI-powered user experiences using cloud-native services and multi-agent systems.
 
 ---
 
 ### 🚀 Quick Stats
 
-* 
-**Current Role:** Senior Software Engineer at **CES IT Pvt Ltd**.
+* **Current Role:** Senior Software Engineer at **CES IT Pvt Ltd**.
 
 
-* 
-**Focus Areas:** Agentic AI, RAG Architectures, Voice AI, and Cloud-Native AI Deployment.
+* **Focus Areas:** Agentic AI, RAG Architectures, Voice AI, Fullstack Application Development and Cloud-Native AI Deployment.
 
 
-* 
-**Location:** Chennai, India.
+* **Location:** Chennai, India.
 
 
-* 
-**Portfolio:** [abishekvelavan.github.io](https://www.google.com/search?q=https://abishekvelavan.github.io).
+* **Portfolio:** [abishekvelavan.github.io](https://www.google.com/search?q=https://abishekvelavan.github.io).
 
 
 
@@ -49,7 +45,7 @@ I am a **Senior AI Engineer** with over **4.5 years of experience** specializing
 
 ---
 
-### 🏆 Professional Highlights
+### 🏆 Some Professional Highlights
 
 * 
 **LLM Verification System:** Architected a multi-agent system using **MagenticOne** and **OpenAI** that reduced pharmaceutical onboarding verification time to **10% of manual effort**.
@@ -96,7 +92,7 @@ I am a **Senior AI Engineer** with over **4.5 years of experience** specializing
 ### 📬 Connect With Me
 
 * 
-**LinkedIn:** [linkedin.com/in/abishekvelavan/](https://www.google.com/search?q=https://linkedin.com/in/abishekvelavan/) 
+**LinkedIn:** [linkedin.com/in/abishekvelavan/](https://linkedin.com/in/abishekvelavan/) 
 
 
 * 
