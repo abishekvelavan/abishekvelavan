@@ -91,13 +91,10 @@ I am a **Senior AI Engineer** with over **4.6 years of experience** specializing
 
 ### 📬 Connect With Me
 
-* 
-**LinkedIn:** [linkedin.com/in/abishekvelavan/](https://linkedin.com/in/abishekvelavan/) 
+* **LinkedIn:** [linkedin.com/in/abishekvelavan/](https://linkedin.com/in/abishekvelavan/) 
 
 
-* 
-**Email:** [velavanabishek@gmail.com](mailto:velavanabishek@gmail.com) 
+* **Email:** [velavanabishek@gmail.com](mailto:velavanabishek@gmail.com) 
 
 
-* 
-**GitHub:** [github.com/abishekvelavan](https://github.com/abishekvelavan)
+* **GitHub:** [github.com/abishekvelavan](https://github.com/abishekvelavan)
