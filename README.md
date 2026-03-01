@@ -47,20 +47,16 @@ I am a **Senior AI Engineer** with over **4.6 years of experience** specializing
 
 ### 🏆 Some Professional Highlights
 
-* 
-**LLM Verification System:** Architected a multi-agent system using **MagenticOne** and **OpenAI** that reduced pharmaceutical onboarding verification time to **10% of manual effort**.
+* **LLM Verification System:** Architected a multi-agent system using **MagenticOne** and **OpenAI** that reduced pharmaceutical onboarding verification time to **10% of manual effort**.
 
 
-* 
-**Visual Self-Healing:** Developed an LLM-orchestrated solution with **90% accuracy** to identify and fix visual discrepancies on AI-generated webpages.
+* **Visual Self-Healing:** Developed an LLM-orchestrated solution with **90% accuracy** to identify and fix visual discrepancies on AI-generated webpages.
 
 
-* 
-**Voice AI Accelerator:** Built a configurable Voice AI agent using **Deepgram** and **Plivo** that deploys for new use-cases via a single prompt change.
+* **Voice AI Accelerator:** Built a configurable Voice AI agent using **Deepgram** and **Plivo** that deploys for new use-cases via a single prompt change.
 
 
-* 
-**Industrial Automation:** Engineered an OpenAI-powered chatbot for 50+ US plants, optimizing truck waiting times by **60%** through IoT API integrations.
+* **Industrial Automation:** Engineered an OpenAI-powered chatbot for 50+ US plants, optimizing truck waiting times by **60%** through IoT API integrations.
 
 
 
